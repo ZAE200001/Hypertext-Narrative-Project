@@ -1,0 +1,27 @@
+body {
+  font-family: Comic Sans MS;
+  background-color: rgb(255, 166, 166);
+  text-align: center;
+}
+
+h1 {
+  color: rgb(254, 254, 255);
+  font-size: 40px;
+  -webkit-text-stroke: 2px rgb(176, 0, 0);
+}
+
+p {
+  color: rgb(254, 254, 255);
+  font-size: 30px;
+  -webkit-text-stroke: 1px rgb(176, 0, 0);
+}
+
+a {
+  color: rgb(254, 254, 255);
+  font-size: 50px;
+  -webkit-text-stroke: 2px rgb(176, 0, 0);
+}
+
+img {
+  width: 700px;
+}
